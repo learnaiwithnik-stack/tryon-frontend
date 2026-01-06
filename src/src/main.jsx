@@ -1,4 +1,4 @@
-import { useState } from "react";
+import App from "./App.jsx";
 
 export default function App() {
   const [file, setFile] = useState(null);
